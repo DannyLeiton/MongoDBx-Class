@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "browserify": "10.2.3",
+    "gulp": "3.8.11",
+    "gulp-browserify": "0.5.1"
+  }
+}
+
+/*
+To generate the files in /bin
+
+./node_modules/.bin/browserify -o bin/index.js index.js
+
+*/
